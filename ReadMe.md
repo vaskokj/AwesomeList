@@ -3,7 +3,7 @@
 
 - [Awesome Lists](#awesome-lists)
 - [Software](#Software)
-    - [Linux Tools] (#linux-tools)
+    - [Linux Tools](#linux-tools)
 
 
 ## Awesome Lists
@@ -12,4 +12,4 @@
 
 ## Software
 
-#Linux Tools
+### Linux Tools
