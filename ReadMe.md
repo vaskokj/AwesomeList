@@ -25,3 +25,4 @@
 - [Restic](https://restic.net/) - restic is a program that does backups right.
 - [Bacula](https://www.bacula.org/) - Open Source, Enterprise ready backup tool
 - [Bareos](https://www.bareos.org/en/) - Fork of bacula
+- [BackupPC](https://github.com/backuppc/backuppc) - Enterprise backup solution
