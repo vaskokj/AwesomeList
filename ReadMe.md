@@ -26,3 +26,5 @@
 - [Bacula](https://www.bacula.org/) - Open Source, Enterprise ready backup tool
 - [Bareos](https://www.bareos.org/en/) - Fork of bacula
 - [BackupPC](https://github.com/backuppc/backuppc) - Enterprise backup solution
+- [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and encryption
+- [BorgMatic](https://github.com/witten/borgmatic) - Borgmatic is simple, configuration-driven backup software for servers and workstations.
