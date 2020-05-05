@@ -28,3 +28,8 @@
 - [BackupPC](https://github.com/backuppc/backuppc) - Enterprise backup solution
 - [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and encryption
 - [BorgMatic](https://github.com/witten/borgmatic) - Borgmatic is simple, configuration-driven backup software for servers and workstations.
+
+### BI Tools
+- [Apache Superset](https://github.com/apache/incubator-superset) - Apache Superset is a data exploration and visualization web application. 
+- [Redash](https://github.com/getredash/redash) - Redash is designed to enable anyone, regardless of level of technical sophistication, to harness the power of data big and small. 
+- [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 
