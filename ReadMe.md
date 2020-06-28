@@ -5,6 +5,7 @@
 - [Software](#Software)
     - [Linux Tools](#linux-tools)
     - [Backup Tools](#backup-tools)
+    - [AI Tools](#ai-tools)
 
 
 ## Awesome Lists
@@ -33,3 +34,6 @@
 - [Apache Superset](https://github.com/apache/incubator-superset) - Apache Superset is a data exploration and visualization web application. 
 - [Redash](https://github.com/getredash/redash) - Redash is designed to enable anyone, regardless of level of technical sophistication, to harness the power of data big and small. 
 - [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 
+
+### AI Tools
+- [Allegro](https://allegro.ai/trains-open-source/) - End-to-end enterprise-grade platform for data scientists, data engineers, DevOps and managers to manage the entire machine learning & deep learning product life-cycle.
