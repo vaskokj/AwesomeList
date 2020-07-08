@@ -37,3 +37,7 @@
 
 ### AI Tools
 - [Allegro](https://allegro.ai/trains-open-source/) - End-to-end enterprise-grade platform for data scientists, data engineers, DevOps and managers to manage the entire machine learning & deep learning product life-cycle.
+- [Determined AI](https://determined.ai/) - Determined helps deep learning teams train models more quickly, easily share GPU resources, and effectively collaborate. 
+- [CVAT](https://github.com/opencv/cvat) - CVAT is free, online, interactive video and image annotation tool for computer vision.
+- [Scalabel](https://scalabel.ai/) - A scalable open-sourced annotation web tool brought by Berkeley DeepDrive.
+- [LOST](https://lost.training/) - Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.
