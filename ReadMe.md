@@ -41,3 +41,7 @@
 - [CVAT](https://github.com/opencv/cvat) - CVAT is free, online, interactive video and image annotation tool for computer vision.
 - [Scalabel](https://scalabel.ai/) - A scalable open-sourced annotation web tool brought by Berkeley DeepDrive.
 - [LOST](https://lost.training/) - Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.
+
+### On-Premise Storage
+- [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
+- [OwnCloud](https://owncloud.org/) - ownCloud is a suite of client–server software for creating and using file hosting services.
