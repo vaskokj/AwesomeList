@@ -19,6 +19,7 @@
 - [rdesktop](https://www.rdesktop.org/) - Linux remote desktop utility.
 - [xrdp](http://www.xrdp.org/) - remote desktop server for linux use rdesktop to connect
 - [NoMachine](https://www.nomachine.com/) - Another remote desktop server environment for Linux
+- [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
