@@ -36,6 +36,9 @@
 - [Redash](https://github.com/getredash/redash) - Redash is designed to enable anyone, regardless of level of technical sophistication, to harness the power of data big and small. 
 - [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company 
 
+### Prototyping tools
+- [Streamlit](https://www.streamlit.io/) - Tool for fast AI prototyping.
+
 ### AI Tools
 - [Allegro](https://allegro.ai/trains-open-source/) - End-to-end enterprise-grade platform for data scientists, data engineers, DevOps and managers to manage the entire machine learning & deep learning product life-cycle.
 - [Determined AI](https://determined.ai/) - Determined helps deep learning teams train models more quickly, easily share GPU resources, and effectively collaborate. 
