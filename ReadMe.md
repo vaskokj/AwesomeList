@@ -56,3 +56,4 @@
 
 ### Server Management
 - [Cockpit](https://cockpit-project.org/) - Manage and view your server through a web UI
+- [Heimdall](https://heimdall.site/) - Application Dashboard
