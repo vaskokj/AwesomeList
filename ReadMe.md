@@ -53,3 +53,6 @@
 
 ### SQL Tools
 - [SchemaSpy](http://schemaspy.org/) - Document your database simply and easily
+
+### Server Management
+- [Cockpit](https://cockpit-project.org/) - Manage and view your server through a web UI
