@@ -58,3 +58,4 @@
 ### Server Management
 - [Cockpit](https://cockpit-project.org/) - Manage and view your server through a web UI
 - [Heimdall](https://heimdall.site/) - Application Dashboard
+- [Dell iDrac fan Management Daemon](https://github.com/kroy-the-rabbit/12g_idrac_fan_daemon) - Dell iDrac fan management
