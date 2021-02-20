@@ -59,3 +59,22 @@
 - [Cockpit](https://cockpit-project.org/) - Manage and view your server through a web UI
 - [Heimdall](https://heimdall.site/) - Application Dashboard
 - [Dell iDrac fan Management Daemon](https://github.com/kroy-the-rabbit/12g_idrac_fan_daemon) - Dell iDrac fan management
+
+### Multimedia
+- [Piwigo](https://piwigo.org/) - Photo collection management
+- [Jellyfin](https://jellyfin.org/) - Media management
+- [Calibre Web](https://github.com/janeczku/calibre-web) - Book management
+- [AirSonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
+- [Beets](https://beets.io/] - Music organizer
+
+### Distributed Fileshareing
+- [Radarr](https://radarr.video/) - Radarr, originally a fork of Sonarr, is used for tracking and automatically gathering torrents for movies available from MovieDB.
+- [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new tracks from your favorite artists and will grab, sort and rename them. 
+- [Jackett](https://github.com/Jackett/Jackett) - Jackett works as a proxy server: it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html response, then sends results back to the requesting software. 
+- [Sonarr](https://sonarr.tv/) - Sonarr automates your TV downloads from public and private trackers. 
+- [NZBHydra2](https://github.com/theotherp/nzbhydra2) - NZBHydra 2 is a meta search for newznab indexers and torznab trackers. It provides easy access to newznab indexers and many torznab trackers via Jackett. 
+- [SABnzbd](https://sabnzbd.org/) - SABnzbd is an Open Source Binary Newsreader written in Python
+- [rTorrent](https://github.com/rakshasa/rtorrent) - BitTorrent client
+- [CouchPotato](https://couchpota.to/) - Awesome PVR for usenet and torrents. Just fill in what you want to see and CouchPotato will add it to your "want to watch"-list.
+- [Deluge](https://deluge-torrent.org/) - Bittorrent client
+
