@@ -78,3 +78,8 @@
 - [CouchPotato](https://couchpota.to/) - Awesome PVR for usenet and torrents. Just fill in what you want to see and CouchPotato will add it to your "want to watch"-list.
 - [Deluge](https://deluge-torrent.org/) - Bittorrent client
 
+### Knowledge Base
+- [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- [Athens Research](https://github.com/athensresearch/athens) - Athens is a knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven.
+- [Logseq](https://logseq.com/) - Logseq is a joyful, open-source outliner that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
+
