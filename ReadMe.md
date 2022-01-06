@@ -31,6 +31,8 @@
 - [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and encryption
 - [BorgMatic](https://github.com/witten/borgmatic) - Borgmatic is simple, configuration-driven backup software for servers and workstations.
 - [Proxmox Backup Server](https://www.proxmox.com/en/proxmox-backup-server) - Proxmox backup server
+- [Vorta](https://vorta.borgbase.com/) - Vorta, BorgBackup GUI for linux
+- [UrBackup](https://www.urbackup.org/download.html) - UrBackup, Client/Server backup software open source
 
 ### BI Tools
 - [Apache Superset](https://github.com/apache/incubator-superset) - Apache Superset is a data exploration and visualization web application. 
