@@ -11,6 +11,7 @@
 ## Awesome Lists
 
 - [Generic Awesome List](https://github.com/sindresorhus/awesome/blob/master/readme.md)
+- [Awesome OSS to SaaS Alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
 
 ## Software
 
