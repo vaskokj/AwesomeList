@@ -86,3 +86,6 @@
 - [Athens Research](https://github.com/athensresearch/athens) - Athens is a knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven.
 - [Logseq](https://logseq.com/) - Logseq is a joyful, open-source outliner that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
 
+### Data transfer tools
+- [fpart](https://github.com/martymac/fpart) - transfer data quickly over super fast links (100Gbps+)
+
