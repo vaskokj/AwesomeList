@@ -53,7 +53,8 @@
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
 - [OwnCloud](https://owncloud.org/) - ownCloud is a suite of client–server software for creating and using file hosting services.
-- [Syncthing](https://syncthing.net/) - File synchronization 
+- [Syncthing](https://syncthing.net/) - File synchronization
+- [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system. There are two objectives:
 
 ### SQL Tools
 - [SchemaSpy](http://schemaspy.org/) - Document your database simply and easily
