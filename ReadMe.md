@@ -49,6 +49,7 @@
 - [CVAT](https://github.com/opencv/cvat) - CVAT is free, online, interactive video and image annotation tool for computer vision.
 - [Scalabel](https://scalabel.ai/) - A scalable open-sourced annotation web tool brought by Berkeley DeepDrive.
 - [LOST](https://lost.training/) - Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.
+- [Directus](https://github.com/directus/directus) - Directus is a real-time API and App dashboard for managing SQL database content.
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
