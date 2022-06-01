@@ -50,6 +50,8 @@
 - [Scalabel](https://scalabel.ai/) - A scalable open-sourced annotation web tool brought by Berkeley DeepDrive.
 - [LOST](https://lost.training/) - Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.
 - [Directus](https://github.com/directus/directus) - Directus is a real-time API and App dashboard for managing SQL database content.
+- [Metaflow](https://github.com/Netflix/metaflow) - Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
+- [Flyte](https://github.com/flyteorg/flyte) - Flyte is a structured programming and distributed processing platform that enables highly concurrent, scalable, and maintainable workflows for Machine Learning and Data Processing.
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
