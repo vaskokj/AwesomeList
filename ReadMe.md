@@ -54,6 +54,7 @@
 - [Flyte](https://github.com/flyteorg/flyte) - Flyte is a structured programming and distributed processing platform that enables highly concurrent, scalable, and maintainable workflows for Machine Learning and Data Processing.
 - [Datahub](https://datahubproject.io/) - Data ecosystems are diverse — too diverse. DataHub's extensible metadata platform enables data discovery, data observability and federated governance that helps you tame this complexity.
 - [Amundsen](https://www.amundsen.io/) - Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data. 
+- [Open MetaData](https://open-metadata.org/) - A Single Place to Discover, Collaborate and get your Data Right 
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
