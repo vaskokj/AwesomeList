@@ -98,3 +98,6 @@
 
 ### Networking
 - [traefik](https://github.com/traefik/traefik) - Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy.
+
+### Security
+- [HashCorp Vault](https://www.vaultproject.io/downloads) - Manage Secrets & Protect Sensitive Data
