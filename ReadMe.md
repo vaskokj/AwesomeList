@@ -69,7 +69,8 @@
 - [Cockpit](https://cockpit-project.org/) - Manage and view your server through a web UI
 - [Heimdall](https://heimdall.site/) - Application Dashboard
 - [Dell iDrac fan Management Daemon](https://github.com/kroy-the-rabbit/12g_idrac_fan_daemon) - Dell iDrac fan management
-- [Caddy](https://caddyserver.com/) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go 
+- [Caddy](https://caddyserver.com/) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
+- [RustDesk](https://github.com/rustdesk) - Your remote desktop
 
 ### Multimedia
 - [Piwigo](https://piwigo.org/) - Photo collection management
