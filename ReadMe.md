@@ -17,6 +17,7 @@
 
 ### Python Projects 
 - [GreatExpectations](https://greatexpectations.io/) - Great Expectations is a shared, open standard for data quality. It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
+- [CookieCutter](https://cookiecutter.readthedocs.io/en/stable/) - Cookiecutter creates projects from cookiecutters (project templates), e.g. Python package projects from Python package temnplates.
 
 ### Linux Tools
 
