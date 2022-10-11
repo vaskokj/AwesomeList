@@ -15,6 +15,9 @@
 
 ## Software
 
+### Python Projects 
+- [GreatExpectations](https://greatexpectations.io/) - Great Expectations is a shared, open standard for data quality. It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
+
 ### Linux Tools
 
 - [rdesktop](https://www.rdesktop.org/) - Linux remote desktop utility.
