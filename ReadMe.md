@@ -12,6 +12,7 @@
 
 - [Generic Awesome List](https://github.com/sindresorhus/awesome/blob/master/readme.md)
 - [Awesome OSS to SaaS Alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+- [Alternative To](https://www.opensourcealternative.to/) - Open Source Alternatives to Closed Source
 
 ## Software
 
