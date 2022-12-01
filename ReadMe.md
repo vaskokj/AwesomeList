@@ -26,6 +26,7 @@
 - [xrdp](http://www.xrdp.org/) - remote desktop server for linux use rdesktop to connect
 - [NoMachine](https://www.nomachine.com/) - Another remote desktop server environment for Linux
 - [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Lynis](https://cisofy.com/lynis/) - Lynis is a battle-tested security tool for systems running Linux, macOS, or Unix-based operating system. It performs an extensive health scan of your systems to support system hardening and compliance testing. 
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
