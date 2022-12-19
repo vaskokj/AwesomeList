@@ -97,6 +97,10 @@
 - [CouchPotato](https://couchpota.to/) - Awesome PVR for usenet and torrents. Just fill in what you want to see and CouchPotato will add it to your "want to watch"-list.
 - [Deluge](https://deluge-torrent.org/) - Bittorrent client
 
+### Inventory Tracking
+- [Grocy](https://grocy.info/) - grocy is a web-based self-hosted groceries & household management solution for your home. 
+- [Snipe-IT](https://snipeitapp.com/) - Snipe-IT was made for IT asset management, to enable IT departments to track who has which laptop, when it was purchased, which software licenses and accessories are available, and so on.
+
 ### Knowledge Base
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [Athens Research](https://github.com/athensresearch/athens) - Athens is a knowledge graph for research and notetaking. Athens is open-source, private, extensible, and community-driven.
