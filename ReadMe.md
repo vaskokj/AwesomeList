@@ -62,6 +62,7 @@
 - [Amundsen](https://www.amundsen.io/) - Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data. 
 - [Open MetaData](https://open-metadata.org/) - A Single Place to Discover, Collaborate and get your Data Right 
 - [DeepLake](https://github.com/activeloopai/deeplake) - Deep Lake (formerly known as Activeloop Hub) is a data lake for deep learning applications.
+- [Kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
