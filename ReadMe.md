@@ -29,6 +29,7 @@
 - [Lynis](https://cisofy.com/lynis/) - Lynis is a battle-tested security tool for systems running Linux, macOS, or Unix-based operating system. It performs an extensive health scan of your systems to support system hardening and compliance testing. 
 - [Teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. 
 - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [Headscale](https://github.com/juanfont/headscale) - Coordination server for tailscale client above.
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
