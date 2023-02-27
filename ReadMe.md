@@ -30,6 +30,8 @@
 - [Teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. 
 - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [Headscale](https://github.com/juanfont/headscale) - Coordination server for tailscale client above.
+- [Hashicorp Boundry](https://www.boundaryproject.io/) - Access any system from anywhere based on user identity. 
+- Hashicorp Vault](https://www.vaultproject.io/) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API.
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
