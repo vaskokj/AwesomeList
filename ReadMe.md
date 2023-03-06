@@ -69,6 +69,7 @@
 - [Open MetaData](https://open-metadata.org/) - A Single Place to Discover, Collaborate and get your Data Right 
 - [DeepLake](https://github.com/activeloopai/deeplake) - Deep Lake (formerly known as Activeloop Hub) is a data lake for deep learning applications.
 - [Kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [jucieFS](https://juicefs.com/en/) - A POSIX, HDFS and S3 compatible distributed file system for cloud.
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
