@@ -126,3 +126,12 @@
 
 ### Security
 - [HashCorp Vault](https://www.vaultproject.io/downloads) - Manage Secrets & Protect Sensitive Data
+
+### SysAdmin Tools
+- [Chocolatey](https://community.chocolatey.org/) - The Largest Repository of Windows Packages
+- [WizTree](https://diskanalyzer.com/) - The FASTEST Disk Space Analyzer
+- [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) - Experience Windows in your way and keep it fresh every day. Set up, debloat, optimize, repair, and tweak your operating system in a simple, time-saving, yet safe approach. Maintain it in a clean, healthy and productive state while having everything you need in one place.
+- [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+- [Netboot.xyz](https://netboot.xyz/) - your favorite operating systems in one place
+- [Simple http server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
+- [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm)
