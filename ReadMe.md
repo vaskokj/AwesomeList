@@ -35,6 +35,10 @@
 - [Openziti](https://docs.openziti.io/) - OpenZiti is a free and open source project focused on bringing zero trust networking principles directly into any application. The project provides all the pieces required to implement a zero trust overlay network and provides all the tools necessary to integrate zero trust into your existing solutions. 
 - [HTCondor](https://htcondor.org/) - HTCondor is a software system that creates a High-Throughput Computing (HTC) environment. It effectively uses the computing power of machines connected over a network, be they a single cluster, a set of clusters on a campus, cloud resources either standalone or temporarily joined to a local cluster, or international grids. 
 - [MooseFS](https://moosefs.com/) - Moose File System is an open-source, POSIX-compliant distributed file system developed by Core Technology.
+- [RustDesk](https://github.com/rustdesk/rustdesk) - Opensource version of TeamViewer
+- [Xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+- [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [Moonlight](https://github.com/moonlight-stream) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link) 
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
