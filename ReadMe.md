@@ -140,3 +140,8 @@
 - [Netboot.xyz](https://netboot.xyz/) - your favorite operating systems in one place
 - [Simple http server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm)
+
+
+### Education Material
+- [LeetCode](https://leetcode.com) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+- [NeetCode](https://neetcode.io) - A better way to prepare for coding interviews.
