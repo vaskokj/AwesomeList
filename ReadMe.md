@@ -142,9 +142,10 @@
 - [Simple http server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm)
 
-### Organizations
+### Organization
 - [Focalboard](https://www.focalboard.com/) - Open source
 project management for technical teams
+- [Super-productivity](https://github.com/johannesjo/super-productivity) - Be more productive with Super Productivity
 
 ### Education Material
 - [LeetCode](https://leetcode.com) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
