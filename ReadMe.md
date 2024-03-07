@@ -82,6 +82,7 @@
 - [DeepLake](https://github.com/activeloopai/deeplake) - Deep Lake (formerly known as Activeloop Hub) is a data lake for deep learning applications.
 - [Kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
 - [jucieFS](https://juicefs.com/en/) - A POSIX, HDFS and S3 compatible distributed file system for cloud.
+- [DOAS](https://docs.daos.io/v2.4/) - The Distributed Asynchronous Object Storage (DAOS) is an open-source object store designed from the ground up for massively distributed Non Volatile Memory (NVM). 
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
