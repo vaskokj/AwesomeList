@@ -158,3 +158,5 @@ project management for technical teams
 ### Education Material
 - [LeetCode](https://leetcode.com) - LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [NeetCode](https://neetcode.io) - A better way to prepare for coding interviews.
+- [HackerOne](https://hackerone.com) - Learning to hack 
+- [OWASP](https://owasp.org) - Learning web vulnerabilities
