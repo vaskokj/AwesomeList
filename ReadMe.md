@@ -109,6 +109,8 @@
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Book management
 - [AirSonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](https://beets.io/] - Music organizer
+- [Castopod](https://docs.castopod.org/main/en/) - Castopod is a free & open-source hosting platform made for podcasters who want engage and interact with their audience.
+- [Azuracast](https://www.azuracast.com/) - free and open-source, self-hosted web radio station in a box
 
 ### Distributed Fileshareing
 - [Radarr](https://radarr.video/) - Radarr, originally a fork of Sonarr, is used for tracking and automatically gathering torrents for movies available from MovieDB.
