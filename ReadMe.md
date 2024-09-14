@@ -165,3 +165,8 @@ project management for technical teams
 - [Pwnable](http://pwnable.kr) - Capture the flag hacking.
 ### Tutorials
 - [FreeIPA and FreeRadius setup](https://www.kubelynx.com/article/how-install-freeipa-server-almalinux-9-and-rocky-linux-9-and-integrate-freeradius) - How to set up FreeIPA and FreeRadius
+
+### Oranizational
+- [LinkWarden](https://linkwarden.app/) - Bookmark Preservation for Individuals and Teams
+- [LinkDing](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [Readeck](https://readeck.org/en/) - Save the story, cut the clutter
