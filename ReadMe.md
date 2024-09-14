@@ -182,3 +182,5 @@ project management for technical teams
 - [Pinry](https://docs.getpinry.com/) - Image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 - [Pocketbase](https://pocketbase.io/) - Simple backend for web- and mobile apps. Get a realtime database, user management and file storage.
 - [Pydio Cells](https://pydio.com/) - A versatile file sharing platform to collaborate and share files internally and externally.
+- [Immich](https://immich.app/) - A Google Photos alternative to manage your photos and videos. Comes with its own mobile app. 
+- [Rallly](https://rallly.co/) - Schedule group meetings with ease. Find the right date without the back and forth.
