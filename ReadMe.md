@@ -184,3 +184,4 @@ project management for technical teams
 - [Pydio Cells](https://pydio.com/) - A versatile file sharing platform to collaborate and share files internally and externally.
 - [Immich](https://immich.app/) - A Google Photos alternative to manage your photos and videos. Comes with its own mobile app. 
 - [Rallly](https://rallly.co/) - Schedule group meetings with ease. Find the right date without the back and forth.
+- [Baserow](https://baserow.io/) - Create your own online database without technical experience.
