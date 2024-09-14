@@ -170,3 +170,6 @@ project management for technical teams
 - [LinkWarden](https://linkwarden.app/) - Bookmark Preservation for Individuals and Teams
 - [LinkDing](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [Readeck](https://readeck.org/en/) - Save the story, cut the clutter
+- [ArchiveBox](https://archivebox.io/) - ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view websites offline.
+- [BookStatck](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
+- [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. 
