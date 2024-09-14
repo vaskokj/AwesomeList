@@ -172,4 +172,13 @@ project management for technical teams
 - [Readeck](https://readeck.org/en/) - Save the story, cut the clutter
 - [ArchiveBox](https://archivebox.io/) - ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view websites offline.
 - [BookStatck](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
-- [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. 
+- [ChangeDetection](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection.
+- [Docmost](https://docmost.com/) - Docmost Open-source collaborative wiki and documentation software
+- [Ghost](https://ghost.org/) - Ghost is a powerful app for professional publishers to create, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
+- [Grocy](https://grocy.info/) - Grocy is a web-based self-hosted groceries & household management solution for your home.
+- [Paperless-ngx](https://paperless-ngx.readthedocs.io/en/latest/) - Document management system that transforms your physical documents into a searchable online archive.
+- [PhotoPrism](https://photoprism.app/) - An AI-powered app for browsing, organizing & sharing your photo collection. Access to sponsor features included.
+- [Pydio Cells](https://pydio.com/) - A versatile file sharing platform to collaborate and share files internally and externally.
+- [Pinry](https://docs.getpinry.com/) - Image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+- [Pocketbase](https://pocketbase.io/) - Simple backend for web- and mobile apps. Get a realtime database, user management and file storage.
+- [Pydio Cells](https://pydio.com/) - A versatile file sharing platform to collaborate and share files internally and externally.
