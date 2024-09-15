@@ -185,3 +185,4 @@ project management for technical teams
 - [Immich](https://immich.app/) - A Google Photos alternative to manage your photos and videos. Comes with its own mobile app. 
 - [Rallly](https://rallly.co/) - Schedule group meetings with ease. Find the right date without the back and forth.
 - [Baserow](https://baserow.io/) - Create your own online database without technical experience.
+- [Omnivore](https://github.com/omnivore-app/omnivore/tree/main) - Omnivore is a complete, open source read-it-later solution for people who like text.
