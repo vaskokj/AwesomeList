@@ -163,7 +163,7 @@ project management for technical teams
 - [HackerOne](https://hackerone.com) - Learning to hack 
 - [OWASP](https://owasp.org) - Learning web vulnerabilities
 - [Pwnable](http://pwnable.kr) - Capture the flag hacking.
-- [LeetCode](https://leetcode.com/) - A New Way to Learn
+- [HackerRank](https://www.hackerrank.com) - Learn programming skills
 - [https://interviewing.io System Design Interview](https://interviewing.io/guides/system-design-interview) - A Senior Engineer's Guide to the System Design Interview
 - [https://www.designgurus.io](https://www.designgurus.io/blog/step-by-step-guide) - System Design Interviews: A Step-By-Step Guide
 
