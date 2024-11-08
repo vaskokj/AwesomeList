@@ -46,6 +46,7 @@
 - [KeyCloak](https://www.keycloak.org/) - Open Source Identity and Access Management. Add authentication to applications and secure services with minimum effort.
 - [Authentik](https://goauthentik.io/) - authentik is an open-source Identity Provider focused on flexibility and versatility. You can use authentik in an existing environment to add support for new protocols, implement sign-up/recovery/etc. in your application so you don't have to deal with it, and many other things.
 - [Infisical](https://infisical.com) - All-in-one platform to securely manage application configuration and secrets across your team and infrastructure.
+- [Zitadel](https://zitadel.com) - Identity infrastructure, simplified for you
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
