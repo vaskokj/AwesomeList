@@ -47,6 +47,7 @@
 - [Authentik](https://goauthentik.io/) - authentik is an open-source Identity Provider focused on flexibility and versatility. You can use authentik in an existing environment to add support for new protocols, implement sign-up/recovery/etc. in your application so you don't have to deal with it, and many other things.
 - [Infisical](https://infisical.com) - All-in-one platform to securely manage application configuration and secrets across your team and infrastructure.
 - [Zitadel](https://zitadel.com) - Identity infrastructure, simplified for you
+- [Wazuh](https://wazuh.com/) - The Open Source Security Platform Unified XDR and SIEM protection for endpoints and cloud workloads.
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
