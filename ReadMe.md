@@ -175,6 +175,7 @@ project management for technical teams
 ### Kubernetes
 - [Openunison](https://openunison.github.io/) - OpenUnison provides SSO and authentication for your Kubernetes clusters, no matter where they run or how your users need to authenticate.
 - [Monokle](https://github.com/kubeshop/monokle) - Monokle Desktop is the only IDE dedicated to high-quality Kubernetes YAML configurations
+- [Devtron](https://github.com/devtron-labs/devtron/) - Kubernetes Dashboard for a Centralized DevOps Hub
 
 ### Oranizational
 - [LinkWarden](https://linkwarden.app/) - Bookmark Preservation for Individuals and Teams
