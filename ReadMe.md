@@ -22,6 +22,7 @@
 ### Development Tool
 - [Coder](https://coder.com/) - Deploy development environments on your infrastructure
 - [DevSpace](https://www.devspace.sh) - DevSpace is a client-only, open-source developer tool for Kubernetes
+- [DevPod](https://devpod.sh/) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 
 ### Python Projects 
 - [GreatExpectations](https://greatexpectations.io/) - Great Expectations is a shared, open standard for data quality. It helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
