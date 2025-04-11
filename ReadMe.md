@@ -75,6 +75,9 @@
 ### Prototyping tools
 - [Streamlit](https://www.streamlit.io/) - Tool for fast AI prototyping.
 
+### Kubernetes
+-[HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware 
+
 ### AI Tools
 - [Allegro](https://allegro.ai/trains-open-source/) - End-to-end enterprise-grade platform for data scientists, data engineers, DevOps and managers to manage the entire machine learning & deep learning product life-cycle.
 - [Determined AI](https://determined.ai/) - Determined helps deep learning teams train models more quickly, easily share GPU resources, and effectively collaborate. 
