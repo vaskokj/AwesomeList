@@ -55,7 +55,7 @@
 - [Wazuh](https://wazuh.com/) - The Open Source Security Platform Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Moonlight](https://moonlight-stream.org/#) - Moonlight (formerly Limelight) is an open source implementation of NVIDIA's GameStream protocol. We implemented the protocol used by the NVIDIA Shield and wrote a set of 3rd party clients. (Sunshine is the client).
 - [Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork. Apollo is the server?
-- [Apache Guacamole](https://guacamole.apache.org/) - Apache Guacamole is a clientless remote desktop gateway allowing users to control remote computers or virtual machines via a web browser, and allows administrators to dictate how and whether users can connect using an extensible authentication and authorization system.
+- [Apache Guacamole](https://guacamole.apache.org/) - Apache Guacamole is a clientless remote desktop gateway allowing users to control remote computers or virtual machines via a web browser, and allows administrators to dictate how and whether users can connect using an extensible authentication and authorization system. [Installation Guide](https://medium.com/@anshumaansingh10jan/unlocking-remote-access-a-comprehensive-guide-to-installing-and-configuring-apache-guacamole-on-30a4fd227fcd).
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
