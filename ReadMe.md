@@ -80,7 +80,7 @@
 - [Streamlit](https://www.streamlit.io/) - Tool for fast AI prototyping.
 
 ### Kubernetes
--[HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware 
+- [HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware 
 
 ### AI Tools
 - [Allegro](https://allegro.ai/trains-open-source/) - End-to-end enterprise-grade platform for data scientists, data engineers, DevOps and managers to manage the entire machine learning & deep learning product life-cycle.
@@ -117,6 +117,10 @@
 - [Caddy](https://caddyserver.com/) - Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 - [RustDesk](https://github.com/rustdesk) - Your remote desktop
 
+### Storage
+- [DRBD](https://github.com/LINBIT/linstor-server?tab=readme-ov-file) - DRBD® is open source distributed replicated block storage software for the Linux platform and is typically used for high performance high availability.
+- [Ceph](https://ceph.io/en/) - Reliable and scalable storage designed for any organization
+   
 ### Multimedia
 - [Piwigo](https://piwigo.org/) - Photo collection management
 - [Jellyfin](https://jellyfin.org/) - Media management
