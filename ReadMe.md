@@ -120,6 +120,7 @@
 ### Storage
 - [DRBD](https://github.com/LINBIT/linstor-server?tab=readme-ov-file) - DRBD® is open source distributed replicated block storage software for the Linux platform and is typically used for high performance high availability.
 - [Ceph](https://ceph.io/en/) - Reliable and scalable storage designed for any organization
+- [xigmanas](https://xigmanas.com/xnaswp/) - XigmaNAS is an Open Source Storage NAS (Network-Attached Storage) distribution based on FreeBSD.
    
 ### Multimedia
 - [Piwigo](https://piwigo.org/) - Photo collection management
