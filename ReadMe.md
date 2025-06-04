@@ -99,6 +99,8 @@
 - [jucieFS](https://juicefs.com/en/) - A POSIX, HDFS and S3 compatible distributed file system for cloud.
 - [DOAS](https://docs.daos.io/v2.4/) - The Distributed Asynchronous Object Storage (DAOS) is an open-source object store designed from the ground up for massively distributed Non Volatile Memory (NVM).
 - [ActiveLoop](https://www.activeloop.ai/) - We provide a simple API for creating, storing, versioning, and collaborating on multi-modal AI datasets of any size. With Activeloop's open-core stack, you can rapidly transform and stream data while training models at scale.
+- [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Ray Serve is a scalable model serving library for building online inference APIs.
+- [kserve](https://github.com/kserve/kserve) - KServe provides a Kubernetes Custom Resource Definition for serving predictive and generative machine learning (ML) models.
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
