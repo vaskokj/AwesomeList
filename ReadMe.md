@@ -102,7 +102,8 @@
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) - Ray Serve is a scalable model serving library for building online inference APIs.
 - [kserve](https://github.com/kserve/kserve) - KServe provides a Kubernetes Custom Resource Definition for serving predictive and generative machine learning (ML) models.
 - [kueue](https://github.com/kubernetes-sigs/kueue) - Kueue is a set of APIs and controller for job queueing. It is a job-level manager that decides when a job should be admitted to start (as in pods can be created) and when it should stop (as in active pods should be deleted).
-- [Run.ai](https://docs.nvidia.com/run-ai/index.html) - NVIDIA Run:ai accelerates AI operations with dynamic orchestration across the AI lifecycle. It maximizes GPU utilization, scales AI workloads efficiently, and integrates seamlessly into hybrid infrastructure with minimal overhead. 
+- [Run.ai](https://docs.nvidia.com/run-ai/index.html) - NVIDIA Run:ai accelerates AI operations with dynamic orchestration across the AI lifecycle. It maximizes GPU utilization, scales AI workloads efficiently, and integrates seamlessly into hybrid infrastructure with minimal overhead.
+- [Nvidia Triton Inference](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
