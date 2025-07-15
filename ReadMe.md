@@ -180,6 +180,7 @@
 - [CloneZilla](https://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®. It helps you to do system deployment, bare metal backup and recovery.
 - [Rescuezilla](https://rescuezilla.com/) - Rescuezilla is an open-source easy-to-use disk imaging app that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.
 - [FogProject](https://fogproject.org/) - FOG Project is an open-source solution that allows you to deploy and manage any desktop operating system, anywhere.
+- [IPMI Activiation Generator](https://github.com/Ashark/supermicro-oob-activate/tree/master) - IPMI Activation generator
 
 ### Organization
 - [Focalboard](https://www.focalboard.com/) - Open source
