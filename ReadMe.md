@@ -165,6 +165,7 @@
 
 ### Networking
 - [traefik](https://github.com/traefik/traefik) - Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy.
+- [CrowdSec](https://www.crowdsec.net/) - CrowdSec is an open-source and lightweight software that allows you to detect peers with malevolent behaviors and block them from accessing your systems at various levels (infrastructural, system, applicative). 
 
 ### Security
 - [HashCorp Vault](https://www.vaultproject.io/downloads) - Manage Secrets & Protect Sensitive Data
