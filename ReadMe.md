@@ -58,6 +58,7 @@
 - [Apache Guacamole](https://guacamole.apache.org/) - Apache Guacamole is a clientless remote desktop gateway allowing users to control remote computers or virtual machines via a web browser, and allows administrators to dictate how and whether users can connect using an extensible authentication and authorization system. [Installation Guide](https://medium.com/@anshumaansingh10jan/unlocking-remote-access-a-comprehensive-guide-to-installing-and-configuring-apache-guacamole-on-30a4fd227fcd).
 - [WinApps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage. It is a feature-rich alternative to cloud vendors' web storage interfaces. Over 70 cloud storage products support rclone including S3 object stores, business & consumer file storage services, as well as standard transfer protocols.
+- [Flux](https://github.com/flux-framework/flux-sched) - Flux is a next-generation workload management framework for supercomputers, high-performance computing (HPC) clusters.
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
