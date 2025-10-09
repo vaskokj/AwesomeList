@@ -114,6 +114,7 @@
 - [Syncthing](https://syncthing.net/) - File synchronization
 - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system. There are two objectives:
 - [Seafile](https://github.com/haiwen/seafile) - File Syncing
+- [IPFS](https://docs.ipfs.tech/) - The InterPlanetary File System (IPFS) is a set of building blocks for a better web. Open protocols to make your data smarter: content-addressed, verifiable, and unstoppable.
 
 ### SQL Tools
 - [SchemaSpy](http://schemaspy.org/) - Document your database simply and easily
