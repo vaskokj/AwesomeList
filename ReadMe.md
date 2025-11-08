@@ -108,6 +108,7 @@
 - [Run.ai](https://docs.nvidia.com/run-ai/index.html) - NVIDIA Run:ai accelerates AI operations with dynamic orchestration across the AI lifecycle. It maximizes GPU utilization, scales AI workloads efficiently, and integrates seamlessly into hybrid infrastructure with minimal overhead.
 - [Nvidia Triton Inference](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
 - [Volcano](https://github.com/volcano-sh/volcano) - Volcano is a Kubernetes-native batch scheduling system, extending and enhancing the capabilities of the standard kube-scheduler.
+- [GPUStack](https://github.com/gpustack/gpustack) - GPUStack is an open-source GPU cluster manager for running AI models.
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
