@@ -109,6 +109,7 @@
 - [Nvidia Triton Inference](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution. 
 - [Volcano](https://github.com/volcano-sh/volcano) - Volcano is a Kubernetes-native batch scheduling system, extending and enhancing the capabilities of the standard kube-scheduler.
 - [GPUStack](https://github.com/gpustack/gpustack) - GPUStack is an open-source GPU cluster manager for running AI models.
+- [Pytorch Monarch](https://github.com/meta-pytorch/monarch) - Monarch is a distributed programming framework for PyTorch based on scalable actor messaging (similar to Ray).
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
