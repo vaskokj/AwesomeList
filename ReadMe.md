@@ -110,6 +110,7 @@
 - [Volcano](https://github.com/volcano-sh/volcano) - Volcano is a Kubernetes-native batch scheduling system, extending and enhancing the capabilities of the standard kube-scheduler.
 - [GPUStack](https://github.com/gpustack/gpustack) - GPUStack is an open-source GPU cluster manager for running AI models.
 - [Pytorch Monarch](https://github.com/meta-pytorch/monarch) - Monarch is a distributed programming framework for PyTorch based on scalable actor messaging (similar to Ray).
+- [SkyPilot](https://github.com/skypilot-org/skypilot) Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem). 
 
 ### On-Premise Storage
 - [NextCloud](https://nextcloud.com/) - The self-hosted productivity platform that keeps you in control.
