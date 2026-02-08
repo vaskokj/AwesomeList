@@ -61,6 +61,7 @@
 - [Flux](https://github.com/flux-framework/flux-sched) - Flux is a next-generation workload management framework for supercomputers, high-performance computing (HPC) clusters.
 - [Garage](https://garagehq.deuxfleurs.fr/) - An S3 object store so reliable you can run it outside datacenters
 - [RunDeck](https://www.rundeck.com/) - Rundeck is the orchestration tool for all of your existing automation, reducing operational overhead and improving team efficiency.
+- [Pangolin](https://pangolincatalog.org/) - Pangolin is an MIT licensed Open Source Lakehouse Catalog written in Rust. 
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
