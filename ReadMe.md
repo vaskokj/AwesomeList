@@ -63,6 +63,7 @@
 - [RunDeck](https://www.rundeck.com/) - Rundeck is the orchestration tool for all of your existing automation, reducing operational overhead and improving team efficiency.
 - [Pangolin](https://pangolincatalog.org/) - Pangolin is an MIT licensed Open Source Lakehouse Catalog written in Rust. 
 - [Pangolin.net](https://pangolin.net/) - Pangolin is an open-source, identity-based remote access platform built on WireGuard that enables secure, seamless connectivity to private and public resources.
+- [jitsi](https://jitsi.org/projects/) - Jitsi Free & Open Source Video Conferencing Projects.
 
 ### Backup Tools
 - [Urbackup](https://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time.
