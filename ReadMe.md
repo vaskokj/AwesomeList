@@ -164,7 +164,8 @@
 ### Inventory Tracking
 - [Grocy](https://grocy.info/) - grocy is a web-based self-hosted groceries & household management solution for your home. 
 - [Snipe-IT](https://snipeitapp.com/) - Snipe-IT was made for IT asset management, to enable IT departments to track who has which laptop, when it was purchased, which software licenses and accessories are available, and so on.
-- [Homebox](https://github.com/sysadminsmedia/homebox) - HomeBox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use, Homebox is the perfect solution for your home inventory, organization, and management needs. 
+- [Homebox](https://github.com/sysadminsmedia/homebox) - HomeBox is the inventory and organization system built for the Home User! With a focus on simplicity and ease of use, Homebox is the perfect solution for your home inventory, organization, and management needs.
+- [inventree](https://github.com/inventree/inventree) - InvenTree is an open-source Inventory Management System which provides powerful low-level stock control and part tracking. 
 
 ### Knowledge Base
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
