@@ -197,6 +197,7 @@
 - [Rescuezilla](https://rescuezilla.com/) - Rescuezilla is an open-source easy-to-use disk imaging app that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.
 - [FogProject](https://fogproject.org/) - FOG Project is an open-source solution that allows you to deploy and manage any desktop operating system, anywhere.
 - [IPMI Activiation Generator](https://github.com/Ashark/supermicro-oob-activate/tree/master) - IPMI Activation generator
+- [Wazuh](https://github.com/wazuh/wazuh) - open-source Extended Detection and Response (XDR) and Security Information and Event Management (SIEM) platform
 
 ### Organization
 - [Focalboard](https://www.focalboard.com/) - Open source
